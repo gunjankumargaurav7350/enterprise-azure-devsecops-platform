@@ -1,0 +1,12 @@
+environment        = "prod"
+primary_location   = "eastus"
+secondary_location = "centralus"
+
+tags = {
+  Platform           = "Enterprise Azure DevSecOps Platform"
+  ManagedBy          = "Terraform"
+  Architect          = "Gunjan Kumar Gaurav"
+  ComplianceStandard = "CIS-Azure-v2.0"
+  Confidentiality    = "Highly-Confidential"
+  CostCenter         = "IT-Cloud-Platforms-7350"
+}
